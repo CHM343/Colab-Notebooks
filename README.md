@@ -23,4 +23,4 @@ This repository will be used to provide tutorials, examples, templates and a gen
 * [Python Cheat Sheets](https://ugoproto.github.io/ugo_py_doc/py_cs/)
 * [GitHub - Markdown (md) Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Introduction to LaTeX for Jupyter notebooks](http://chebe163.caltech.edu/2018w/handouts/intro_to_latex.html)
-* 
+* [PyTherm - Applied Thermodynamics](https://github.com/iurisegtovich)
