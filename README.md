@@ -24,3 +24,5 @@ This repository will be used to provide tutorials, examples, templates and a gen
 * [GitHub - Markdown (md) Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Introduction to LaTeX for Jupyter notebooks](http://chebe163.caltech.edu/2018w/handouts/intro_to_latex.html)
 * [PyTherm - Applied Thermodynamics](https://github.com/iurisegtovich)
+
+IF YOU GET AN "Unable to render code block" ERROR when trying to view a Jupyter/Colab Notebook directly in GitHub, use [NBVIEWER](https://nbviewer.org/) - This is a simple free way to share Jupyter Notebooks.
